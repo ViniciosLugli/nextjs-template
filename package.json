@@ -23,8 +23,8 @@
 	},
 	"devDependencies": {
 		"@types/node": "22.13.4",
-		"@types/react": "19.0.7",
-		"@types/react-dom": "19.0.3",
+		"@types/react": "19.0.10",
+		"@types/react-dom": "19.0.4",
 		"autoprefixer": "10.4.20",
 		"next-css-obfuscator": "^2.2.15",
 		"postcss": "8.5.3",
