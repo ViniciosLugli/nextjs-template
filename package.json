@@ -15,7 +15,7 @@
 		"obfuscate-build": "next-css-obfuscator"
 	},
 	"dependencies": {
-		"next": "16.0.6",
+		"next": "16.0.7",
 		"react": "19.2.0",
 		"react-dom": "19.2.0",
 		"react-hot-toast": "^2.4.1",
